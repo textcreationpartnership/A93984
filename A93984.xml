@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange and wonderful news from Ireland of a whale of a prodigious size, being eighty two foot long, cast ashore on the third of this instant February, near Dublin, and there exposed to publick view / in a letter to a person of quality.</title>
+            <author>Simmons, Patrick.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93984</idno>
+            <idno type="STC">Wing S5861</idno>
+            <idno type="STC">ESTC R42899</idno>
+            <idno type="EEBO-CITATION">38875917</idno>
+            <idno type="OCLC">ocm 38875917</idno>
+            <idno type="VID">152424</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152424)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2296:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange and wonderful news from Ireland of a whale of a prodigious size, being eighty two foot long, cast ashore on the third of this instant February, near Dublin, and there exposed to publick view / in a letter to a person of quality.</title>
+                  <author>Simmons, Patrick.</author>
+                  <author>Coniers, David.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Kemp,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end of p. 2: Patrick Simmons, David Coniers, &amp;c.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whales --  Ireland --  Early works to 1800.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:152424:1" rendition="simple:additions"/>
+            <head>
+               <hi>Strange &amp; Wonderful News</hi> FROM IRELAND: OF A WHALE OF A Prodigious Size, being Eighty Two Foot long: Caſt Aſhore on the Third of this Inſtant <hi>February,</hi> near <hi>D<g ref="char:V">Ʋ</g>BLIN;</hi> and there Expoſed to Publick View.</head>
+            <head type="sub">In a Letter to a Perſon of Quality.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WE have had ſo many Prodigies of this Kind, that I wou'd not trouble you with any impertinent or improbable Relation, had not half the Kingdom, as well as my ſelf, been Eye witneſſes to it. And I Queſtion not, but the thing being ſo generally known, and talk'd of, you will have Letters from ſeveral others this Poſt to confirm the Truth thereof.</p>
+            <p>In the County of <hi>Lowth,</hi> between <hi>Dublin</hi> and <hi>Drahedah,</hi> on the Third of this Inſtant <hi>February,</hi> was ſeen, about Eight of the Clock in the Morning, a Whale of the moſt Prodigious Size as ever had been ſeen in theſe parts of the World, ap<g ref="char:EOLhyphen"/>pearing about a League off, like a moving Iſland, or a huge Black Caſtle in the midſt of the Ocean. When it came nearer the Shore, it ſeem'd like <hi>Irelands</hi>-Eye, the Hill of <hi>Ho<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h,</hi> or ſome vaſt Mountain upon the Sea-Coaſt; the Sea, by the continual breaking of the Billows, (as if they diſdain'd to be Bounded by thoſe Banks) being all in a White Foam round about it.</p>
+            <p>In this plight the Prodigious <hi>Leviathan</hi> held Combat with the Floods for above Six Hours, as if he had challeng'd all the Sea-Gods to the Engagement, and been in Diſpute with <hi>Neptune</hi> for the Empire. Sometimes he was above, and ſome<g ref="char:EOLhyphen"/>times under the Waves, belching and throwing up ſuch vaſt Streams, and Spouts of Water out of his Mouth, as ſeem'd to put out the Sun, playing, like Water-Engins, againſt the Clouds, which accompany'd with ſmoak out of his Noſtrils, and frequent Flaſhes of Lightning from his Gaſtly Eyes, ſtruck Terror in the amazed Multitude, who by this time, from all parts round, were gathered upon the Sea-Coaſt, to ſee the Event of this ſo wonderful and terrible a Prodigy.</p>
+            <p>To hear the ſeveral Opinions, Fears and Conſternations, of the <hi>Fingallians,</hi> and <hi>Monaghas,</hi> Bred in ſome Pity, in others Laughter. To hear one calling for St. <hi>Pa<g ref="char:EOLhyphen"/>trick,</hi> another for St. <hi>Dominick,</hi> one for <hi>Colomkill,</hi> another for <hi>Phelemback,</hi> to Save them from the Fury of the great <hi>Leviathan,</hi> and the Terror of the Day of Judg<g ref="char:EOLhyphen"/>ment, which they were aſſured was at hand. To me it was pleaſure to Obſerve the variety of Paſtimes and Humours amongſt 'em; ſome ſetting up the <hi>Hullaloo,</hi> and <hi>Iriſh</hi> Howl, others ſinging <hi>Mackellamone</hi> and the <hi>Crone,</hi> ſome at their <hi>Ave-Maries,</hi> others at the <hi>Whip of Dunboin,</hi> ſome at their <hi>Padreens,</hi> others at a Jig of <hi>Balruddery,</hi> and Dance of <hi>Baldaile.</hi> To ſee <hi>Sheela</hi> at her Prayers, and <hi>Nabla</hi> at her Sneezing, <hi>Dermot</hi> at his Beads, and <hi>Rory</hi> at his <hi>Bolcane</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ſquebah;</hi> ſome run home to their Wives, others to the Father Confeſſor; while many ſtay'd, ſome out of hopes of Prey, others out of Curioſity, to ſee the Reſult of it.</p>
+            <pb n="2" facs="tcp:152424:2"/>
+            <p> About Two a Clock the Tyde going out he was left like a great Ship on ground, with the Keel up wards, half way in Mud and Water, ſtill ſtrugling and ſpouting out Water in vaſt quantities, which being carried by an Eaſterly Wind, ſometimes reach'd as far as the Shore.</p>
+            <p>About an hour after he was left upon the Strand, wallowing in the Mud, beat<g ref="char:EOLhyphen"/>ing the ground with his Head, and flapping with his Tail, in ſuch violent and hi<g ref="char:EOLhyphen"/>deous manner, that the Wind thereof blew away ſeveral People, who came run<g ref="char:EOLhyphen"/>ning down upon the Strand, Roaring as if there had been a Legion of Dutch Cannon within him, and with that dreadful and horrible Noiſe, as if they had been Diſcharged at one Broad-ſide, for his laſt Volley. In this Hurricane there was not a Cabbin in Seven Miles round that had a Glaſs Window left upon it all their Drink was ſouered, and their Milk turn'd into Curds and Whey.</p>
+            <p>In this fury, <hi>Leviathan</hi> expired, when the Aſſembly taking freſh Courage by this Death, laid Siege to the deſerted Garriſon. Engines are erected, and he is brought a ſhore, being in length Eighty Two Foot, the Tongue weighing above Six Hun<g ref="char:EOLhyphen"/>dred Pound, as ſoft, but much bigger than a Feather-Bed. The Heart bigger and fatter than the Body of a great Ox, the Ribs and Bones like Beams, and the Teeth all Whale-bone, like the Rafters of a Houſe meeting in Couples, but ſomething cloſer, with white Beards like Wheat-Sheafs at the end of them, and the Tail like a chequer'd ſtript Scotch Plad, ſplit in the middle, and ſpreading open on both ſides. In the Mouth of which, being propt up with the maſt of a <hi>Dublin Gibbard,</hi> ma<g ref="char:EOLhyphen"/>ny People have been together.</p>
+            <p>In the opening of him they found Three Men and a Boy, with Three large Horns of Snuff, and a Runlet of <hi>
+                  <g ref="char:V">Ʋ</g>ſquebah.</hi> The Men were known, being poor Fiſher-Men belonging to a Creek within Four Miles of <hi>Droheda.</hi> One of the Men having an Oar in his Hand which ſtruck faſt in his Gills, and the Boat running a drift, ſtuck croſs in his Throat, which was thought to be the occaſion of his wreck. Others finding a quantity of Barrel-ſtaves within him, thought it might be with exceſs of ſome hot Liquors which agreed not with his Phlegmatick Con<g ref="char:EOLhyphen"/>ſtitution.</p>
+            <p>In the diſſecting of him, the Meat which is yet to be ſeen, being rather Fleſh than Fiſh, the Skin and upper Parts reſembing fatted-ſmoakt-Bacon, and under that, red Fleſh, like ſwill'd Mutton or Dutch Beef, of which many have Eaten, and found it ſo.</p>
+            <p>The Head, Heart, Tail, and other Parts are yet to be ſeen in <hi>Oxmontouwn</hi> in <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> as you will find by the Bills, which are Printed and given out in this City, which I have ſent you Incloſed.</p>
+            <p>A Copy of the Bills as they are Printed and given out in <hi>Dublin.</hi>
+            </p>
+            <p>At the WHITE-HOUSE in the midſt of St. <hi>Mary's-Lane,</hi> in <hi>Oxmontown</hi> in <hi>Dublin,</hi> is to be ſeen,</p>
+            <p>The Head, Heart, Tail, and other Parts of the moſt Prodigious and Monſtrous WHALE, that ever was ſeen or heard of in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parts of the World, being in length Eighty Two Foot, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <signed>By
+<list>
+                     <item>
+                        <hi>Patrick Simmons,</hi>
+                     </item>
+                     <item>
+                        <hi>David Coniers,</hi> &amp;c.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <p>Price Half a Cobb.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>S. Kemp.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
